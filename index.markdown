@@ -2,7 +2,7 @@
 title: "Bloominglabs"
 layout: splash
 permalink: /
-date: 2024-05-06T00:00:00-04:00
+date: 2024-05-07T00:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
