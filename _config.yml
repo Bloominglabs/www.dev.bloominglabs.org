@@ -7,11 +7,12 @@ url: ""
 twitter_username: bloominglabs
 github_username:  Bloominglabs
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include: ["_pages"]
 
