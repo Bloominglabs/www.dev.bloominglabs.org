@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Wiki"
+    url: https://wiki.dev.bloominglabs.org
+  - title: "Blog"
+    url: /blog/
