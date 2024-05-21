@@ -23,6 +23,9 @@ author:
   bio      : "a space for sharing tools and knowledge to make stuff"
   location : "Bloomington, Indiana, USA"
   links:
+    - label: "Events"
+      icon: "fab fa-fw fa-link"
+      url: "https://events.dev.bloominglabs.org"
     - label: "Wiki"
       icon: "fab fa-fw fa-link"
       url: "https://wiki.dev.bloominglabs.org"
@@ -41,6 +44,9 @@ author:
 
 footer:
   links:
+    - label: "Events"
+      icon: "fab fa-fw fa-link"
+      url: "https://events.dev.bloominglabs.org"
     - label: "Wiki"
       icon: "fab fa-fw fa-link"
       url: "https://wiki.dev.bloominglabs.org"
