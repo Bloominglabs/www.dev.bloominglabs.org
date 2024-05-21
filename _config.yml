@@ -32,6 +32,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bloominglabs"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/bloominglabs"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bloominglabs"
@@ -47,9 +50,13 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bloominglabs"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/bloominglabs"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bloominglabs"
+
 
 
 
@@ -59,6 +66,8 @@ social:
   links:
     - "https://twitter.com/bloominglabs"
     - "https://www.facebook.com/Bloominglabs"
+    - "https://www.instagram.com/bloominglabs"
+    - "https://github.com/Bloominglabs"
 
 defaults:
   # _pages
@@ -68,3 +77,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+
+permalink: /blog/:year/:month/:day/:title
