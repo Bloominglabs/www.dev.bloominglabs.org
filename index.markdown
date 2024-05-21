@@ -6,7 +6,7 @@ date: 2024-05-07T00:00:00-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/bio-photo.png
   actions:
     - label: "More about us"
       url: "/about/"

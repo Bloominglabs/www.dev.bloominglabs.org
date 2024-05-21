@@ -17,6 +17,49 @@ plugins:
 
 include: ["_pages"]
 
+author:
+  name     : "Bloominglabs"
+  avatar   : "/assets/images/bio-photo.png"
+  bio      : "a space for sharing tools and knowledge to make stuff"
+  location : "Bloomington, Indiana, USA"
+  links:
+    - label: "Wiki"
+      icon: "fab fa-fw fa-link"
+      url: "https://wiki.dev.bloominglabs.org"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/bloominglabs"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bloominglabs"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Bloominglabs"
+
+footer:
+  links:
+    - label: "Wiki"
+      icon: "fab fa-fw fa-link"
+      url: "https://wiki.dev.bloominglabs.org"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/bloominglabs"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bloominglabs"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Bloominglabs"
+
+
+
+social:
+  type:  Organization
+  name:  Bloominglabs
+  links:
+    - "https://twitter.com/bloominglabs"
+    - "https://www.facebook.com/Bloominglabs"
+
 defaults:
   # _pages
   - scope:
@@ -24,4 +67,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
