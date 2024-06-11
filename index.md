@@ -16,7 +16,7 @@ header:
     - label: "Events"
       url: "https://events.dev.bloominglabs.org"
 excerpt: >-
-  Bloominglabs is Indiana's first hackerspace (also known as a makerspace). We are a group of group of people who rent a shared workshop where we can build projects both collectively and individually.
+  Bloominglabs is Indiana's first hackerspace (also known as a makerspace). We are a group of group of nerds who rent a shared workshop where we can build projects both collectively and individually.
   <br><br>
   Our space is located at 1840 S. Walnut Street in Bloomington. We are open to the public Wednesday evenings from 7:00 PM until 10:00 PM. Our open hours are family friendly.
   Come build projects, ask questions, teach things, and learn stuff. Everyone is welcome!
