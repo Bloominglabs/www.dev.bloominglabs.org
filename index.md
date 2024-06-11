@@ -29,21 +29,19 @@ feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Learn"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Learn new skills and connect with us"
     url: /learn/
     btn_label: "Learn and Connect"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
     title: "Make"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Make new stuff from old stuff"
     url: /make/
     btn_label: "Make"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Share"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Share knowledge and tools with others"
     url: /share/
     btn_label: "Share"
     btn_class: "btn--primary"
