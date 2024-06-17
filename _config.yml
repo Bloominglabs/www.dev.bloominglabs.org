@@ -41,6 +41,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bloominglabs"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/bloominglabs/"
 
 footer:
   links:
@@ -62,7 +65,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Bloominglabs"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/bloominglabs/"
 
 
 
@@ -74,6 +79,7 @@ social:
     - "https://www.facebook.com/Bloominglabs"
     - "https://www.instagram.com/bloominglabs"
     - "https://github.com/Bloominglabs"
+    - "https://www.linkedin.com/company/bloominglabs/"
 
 defaults:
   # _pages
