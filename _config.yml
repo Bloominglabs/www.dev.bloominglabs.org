@@ -1,9 +1,11 @@
 title: Bloominglabs - a space for sharing tools and knowledge to make stuff
 email: contact@bloominglabs.org
 description: >-
-  Bloominglabs is Indiana's first hackerspace (also known as a makerspace). We are a group of people who rent a shared workshop where we can build projects both collectively and individually. Our space is located at 1840 S. Walnut Street. We are open to the public Wednesday evenings from 7pm until 10pm. Our open hours are family friendly.
+  Bloominglabs is Indiana's first hackerspace (also known as a makerspace). We are a group of people who rent a shared workshop where we can build projects both collectively and individually. Our space is located at 1840 S. Walnut Street in Bloomington, Indiana. We are open to the public Wednesday evenings from 7pm until 10pm. Our open hours are family friendly.
 baseurl: ""
 url: "https://www.dev.bloominglabs.org"
+logo: "/assets/images/bio-photo.png"
+
 twitter_username: bloominglabs
 github_username:  Bloominglabs
 
