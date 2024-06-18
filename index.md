@@ -2,10 +2,10 @@
 title: "Bloominglabs"
 layout: splash
 permalink: /
-date: 2024-06-11T00:00:00-04:00
+date: 2024-06-17T00:00:00-04:00
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner.png
+  overlay_image: /assets/images/banner.jpg
   actions:
     - label: "More about us"
       url: "/about/"
